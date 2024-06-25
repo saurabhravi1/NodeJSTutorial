@@ -1,0 +1,21 @@
+{
+  "name": "node-js-tutorial",
+  "version": "1.1.1",
+  "description": "node js for tutorial",
+  "main": "Demo.js",
+  "scripts": {
+    "test": "npm Demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+    "na"
+  ],
+  "author": "ankit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
